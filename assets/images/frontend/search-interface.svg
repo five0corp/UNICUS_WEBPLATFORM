@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="155" viewBox="0 0 155 155">
+  <g id="search-interface" transform="translate(-1461 -49)">
+    <g id="search-interface-symbol" transform="translate(1461.005 49.004)">
+      <g id="_x34__4_" transform="translate(0)">
+        <g id="그룹_65" data-name="그룹 65" transform="translate(0)">
+          <path id="패스_29" data-name="패스 29" d="M153.2,146.248l-39.931-39.293a63.159,63.159,0,0,0,16.882-42.919C130.146,28.667,101.014,0,65.076,0S.006,28.667.006,64.035s29.132,64.035,65.07,64.035a65.44,65.44,0,0,0,40.956-14.3l40.086,39.448a5.06,5.06,0,0,0,7.077,0A4.875,4.875,0,0,0,153.2,146.248ZM65.076,118.218c-30.408,0-55.058-24.259-55.058-54.183S34.668,9.852,65.076,9.852s55.058,24.259,55.058,54.183S95.484,118.218,65.076,118.218Z" transform="translate(-0.006)" fill="#222"/>
+        </g>
+      </g>
+    </g>
+    <rect id="사각형_40" data-name="사각형 40" width="155" height="155" transform="translate(1461 49)" fill="none"/>
+  </g>
+</svg>
